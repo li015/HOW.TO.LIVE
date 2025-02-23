@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAIN/API Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09fb1214b36131aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_MAIN/API Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d036d3d9a0be754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_MAIN/Skill Tree.md",
+                "file": "Optimize/提升品質、降低成本.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAIN/Skill Tree.md",
+                "file": "Optimize/提升品質、降低成本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAIN/Skill Tree.md",
+                "file": "Optimize/提升品質、降低成本.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAIN/Skill Tree.md"
+                "file": "Optimize/提升品質、降低成本.md"
               }
             }
           }
@@ -170,38 +145,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68a3ab84638c6bca",
+  "active": "6960612aa13073a4",
   "lastOpenFiles": [
-    "_MAIN/statistical models to predict project outcomes, identifying the gross floor area as a critical factor for project speed.md",
-    "_MAIN/STRONG RECIPROCITY THEORY.md",
-    "_MAIN/When a person acts alone, their behavior is very different than when they're not.md",
-    "_MAIN/Wearable device human motion analysis.md",
-    "_MAIN/UX.md",
-    "_MAIN/Virtual construction.md",
-    "_MAIN/Use case of IHMI to support decision making.md",
-    "_MAIN/Types of human–robot initiative communication methods in HRC systems.md",
-    "_MAIN/topic modeling.md",
-    "_MAIN/BIM project delivery.md",
-    "_MAIN_/WORD批次列印PDF.md",
-    "_MAIN_/Untitled.md",
-    "Adapt/面對變化、解決問題.md",
-    "Sustain/倡議並維持.md",
     "CONFIG.md",
-    "_MAIN/Define Sheets.md",
+    "Optimize/提升品質、降低成本.md",
+    "0_openAI-based social robot design for construction site.md",
+    "0_LLM agents for Discussion and Evidence Presentation.md",
+    "0_Impact of Collaboration Modes in Human-Robot Teaming.md",
+    "騎樓機器人.md",
+    "營建市場需求.md",
+    "機器人如何評估已完成工作進度.md",
+    "影片輸出.md",
+    "圖書資訊管理.md",
+    "溫納 (Weiner)歸因理論.md",
+    "竣工修模流程.md",
+    "無家者領域.md",
+    "智慧建造 論壇&分享.md",
+    "博物館教育.md",
+    "設計到施工模型流程.md",
+    "從HHI找有效的提示.md",
+    "區域計畫法問題.md",
+    "框架.md",
+    "根據EIR和項目進度表來定義模擬的遊戲規則.md",
+    "食農.md",
+    "風險識別和分析.md",
+    "研究方法.md",
+    "怎樣把excel和word中的資料關聯起來？.md",
+    "建築營造業職涯能力.md",
+    "建築項目Negotiation model.md",
     "blockright.png",
     "blockleft.png",
-    "Operate/操作性、節奏感.md",
-    "_MAIN/API Development.md",
     "result.png",
     "problem.png",
-    "Optimize/提升品質、降低成本.md",
-    "Collaborate/觀察角色與選擇評估.md",
-    "_MAIN/AI in Real Estate.md",
-    "_MAIN/營建市場需求.md",
-    "_MAIN_/Act like notion.md",
-    "_MAIN/從HHI找有效的提示.md",
-    "_MAIN/竣工修模流程.md",
-    "_MAIN/A Framework of Simulating Project Governance Mechanisms in Construction through Large Language Agent.md",
     "game model.png",
     "roadmap.png",
     "_MAIN",
