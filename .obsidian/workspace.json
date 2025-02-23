@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operate/操作性、節奏感.md",
+                "file": "_DB_/操作性、節奏感.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,9 @@
             "id": "5b8218840954b607",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
+                "file": "_DB_/blockleft.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "_DB_/blockleft.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "_DB_/blockleft.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "_DB_/blockleft.png"
               }
             }
           }
@@ -160,13 +158,13 @@
   },
   "active": "68a3ab84638c6bca",
   "lastOpenFiles": [
-    "Adapt/Adapt.md",
     "home.md",
-    "Collaborate/觀察角色與選擇評估.md",
+    "_DB_/變化時如何反應.md",
     "CONFIG.md",
-    "file/blockright.png",
-    "file/game model.png",
-    "file/blockleft.png",
+    "_DB_/觀察角色與選擇評估.md",
+    "_DB_/blockright.png",
+    "_DB_/game model.png",
+    "_DB_/blockleft.png",
     "file",
     "_DB_/騎樓機器人.md",
     "_DB_/營建市場需求.md",
@@ -193,11 +191,11 @@
     "_DB_",
     "新增資料夾",
     "Home",
-    "file/result.png",
-    "file/problem.png",
-    "file/roadmap.png",
+    "_DB_/result.png",
+    "_DB_/problem.png",
+    "_DB_/roadmap.png",
     "_MAIN",
-    "file/icon.png",
+    "_DB_/icon.png",
     "obsidian-zola-main/zola/templates/macros/header.html",
     "obsidian-zola-main/zola/templates/macros/section-navigation.html",
     "obsidian-zola-main/zola/templates/macros/page-publish-metadata.html",
