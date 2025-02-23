@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "082a8e40862888bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc42cc418ce974d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6960612aa13073a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6b2eaaaa267306c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ecaa60d13acc7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68a3ab84638c6bca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87db7dd81467155e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2044e1c702b9f18c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8e572f008a3cc9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cb2e1b55ee12fee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531aa91c01977509",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d06c22e892aed38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "855dc81286a64cdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6214219b7cab90a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68a3ab84638c6bca",
+  "lastOpenFiles": [
+    "obsidian-zola-main/zola/templates/macros/header.html",
+    "obsidian-zola-main/zola/templates/macros/section-navigation.html",
+    "obsidian-zola-main/zola/templates/macros/page-publish-metadata.html",
+    "obsidian-zola-main/zola/templates/macros/javascript.html",
+    "obsidian-zola-main/zola/templates/macros/math.html",
+    "obsidian-zola-main/zola/templates/macros/head.html",
+    "obsidian-zola-main/zola/templates/macros/graph.html",
+    "obsidian-zola-main/zola/templates/macros/footer.html",
+    "obsidian-zola-main/zola/templates/macros/docs-toc.html",
+    "obsidian-zola-main/zola/templates/macros/docs-sidebar.html",
+    "obsidian-zola-main/zola/templates/macros/docs-graph.html",
+    "obsidian-zola-main/zola/static/favicon-32x32.png",
+    "obsidian-zola-main/zola/static/favicon-16x16.png",
+    "obsidian-zola-main/zola/static/apple-touch-icon.png",
+    "obsidian-zola-main/zola/static/android-chrome-512x512.png",
+    "obsidian-zola-main/zola/static/android-chrome-192x192.png",
+    "obsidian-zola-main/zola/sass/bootstrap/README.md",
+    "obsidian-zola-main/content/_index.md",
+    "obsidian-zola-main/README.md",
+    "obsidian-zola-main/icon.png",
+    "obsidian-zola-main/CONFIG.md",
+    "Operate/operate.md",
+    "Optimize/optimize.md",
+    "Collaborate/collaborate.md",
+    "Adapt/adapt.md",
+    "Sustain/sustain.md"
+  ]
+}
