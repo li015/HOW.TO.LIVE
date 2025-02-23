@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_DB_/操作性、節奏感.md",
+                "file": "Operate.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,11 @@
             "id": "5b8218840954b607",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_DB_/blockleft.png"
+                "file": "建築案經濟模型.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.502254486084
   },
   "right": {
     "id": "b8e572f008a3cc9f",
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_DB_/blockleft.png",
+                "file": "建築案經濟模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_DB_/blockleft.png",
+                "file": "建築案經濟模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_DB_/blockleft.png"
+                "file": "建築案經濟模型.md"
               }
             }
           }
@@ -158,13 +160,23 @@
   },
   "active": "68a3ab84638c6bca",
   "lastOpenFiles": [
+    "Adapt.md",
     "home.md",
-    "_DB_/變化時如何反應.md",
+    "Operate.md",
+    "Sustain.md",
+    "Collaborate.md",
+    "A Framework of Simulating Project Governance Mechanisms in Construction through Large Language Agent.md",
+    "API Development.md",
+    "Optimize.md",
+    "Define Sheets.md",
+    "BIM project delivery.md",
+    "tmp",
+    "_DB_/AI-driven Interactive Lab Assistant W  OpenCV & ChatGPT.md",
+    "_DB_/AI Tools for Architects and Designers.md",
+    "_DB_/blockleft.png",
     "CONFIG.md",
-    "_DB_/觀察角色與選擇評估.md",
     "_DB_/blockright.png",
     "_DB_/game model.png",
-    "_DB_/blockleft.png",
     "file",
     "_DB_/騎樓機器人.md",
     "_DB_/營建市場需求.md",
@@ -179,15 +191,6 @@
     "_DB_/設計到施工模型流程.md",
     "_DB_/從HHI找有效的提示.md",
     "_DB_/區域計畫法問題.md",
-    "_DB_/框架.md",
-    "_DB_/根據EIR和項目進度表來定義模擬的遊戲規則.md",
-    "_DB_/食農.md",
-    "_DB_/風險識別和分析.md",
-    "_DB_/研究方法.md",
-    "_DB_/怎樣把excel和word中的資料關聯起來？.md",
-    "_DB_/建築營造業職涯能力.md",
-    "_DB_/建築項目Negotiation model.md",
-    "_DB_/建築案經濟模型.md",
     "_DB_",
     "新增資料夾",
     "Home",
@@ -200,7 +203,6 @@
     "obsidian-zola-main/zola/templates/macros/section-navigation.html",
     "obsidian-zola-main/zola/templates/macros/page-publish-metadata.html",
     "obsidian-zola-main/zola/templates/macros/javascript.html",
-    "obsidian-zola-main/zola/templates/macros/math.html",
     "obsidian-zola-main/zola/static/favicon-32x32.png",
     "obsidian-zola-main/zola/static/favicon-16x16.png",
     "obsidian-zola-main/zola/static/apple-touch-icon.png"
