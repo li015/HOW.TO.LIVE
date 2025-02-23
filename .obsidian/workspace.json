@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAIN_/API Development.md",
+                "file": "_MAIN/API Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAIN_/API Development.md",
+                "file": "_MAIN/API Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_MAIN_/Define Sheets.md",
+                "file": "_MAIN/Skill Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_MAIN_/Define Sheets.md",
+                "file": "_MAIN/Skill Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_MAIN_/Define Sheets.md",
+                "file": "_MAIN/Skill Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_MAIN_/Define Sheets.md"
+                "file": "_MAIN/Skill Tree.md"
               }
             }
           }
@@ -170,40 +170,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d036d3d9a0be754",
+  "active": "68a3ab84638c6bca",
   "lastOpenFiles": [
+    "_MAIN/statistical models to predict project outcomes, identifying the gross floor area as a critical factor for project speed.md",
+    "_MAIN/STRONG RECIPROCITY THEORY.md",
+    "_MAIN/When a person acts alone, their behavior is very different than when they're not.md",
+    "_MAIN/Wearable device human motion analysis.md",
+    "_MAIN/UX.md",
+    "_MAIN/Virtual construction.md",
+    "_MAIN/Use case of IHMI to support decision making.md",
+    "_MAIN/Types of human–robot initiative communication methods in HRC systems.md",
+    "_MAIN/topic modeling.md",
+    "_MAIN/BIM project delivery.md",
+    "_MAIN_/WORD批次列印PDF.md",
+    "_MAIN_/Untitled.md",
+    "Adapt/面對變化、解決問題.md",
+    "Sustain/倡議並維持.md",
+    "CONFIG.md",
+    "_MAIN/Define Sheets.md",
     "blockright.png",
     "blockleft.png",
     "Operate/操作性、節奏感.md",
-    "_MAIN_/API Development.md",
+    "_MAIN/API Development.md",
     "result.png",
     "problem.png",
     "Optimize/提升品質、降低成本.md",
-    "Adapt/面對變化、解決問題.md",
-    "Sustain/倡議並維持.md",
     "Collaborate/觀察角色與選擇評估.md",
-    "_MAIN_/AI in Real Estate.md",
-    "_MAIN_/營建市場需求.md",
+    "_MAIN/AI in Real Estate.md",
+    "_MAIN/營建市場需求.md",
     "_MAIN_/Act like notion.md",
-    "_MAIN_/從HHI找有效的提示.md",
-    "_MAIN_/竣工修模流程.md",
-    "_MAIN_/A Framework of Simulating Project Governance Mechanisms in Construction through Large Language Agent.md",
+    "_MAIN/從HHI找有效的提示.md",
+    "_MAIN/竣工修模流程.md",
+    "_MAIN/A Framework of Simulating Project Governance Mechanisms in Construction through Large Language Agent.md",
     "game model.png",
     "roadmap.png",
-    "_MAIN_/BIM project delivery.md",
-    "_MAIN_/Define Sheets.md",
-    "_MAIN_/框架.md",
-    "_MAIN_/建築案經濟模型.md",
-    "_MAIN_/合約文件數據收集.md",
-    "_MAIN_/如何進行人文社會科學的閱讀筆記.md",
-    "_MAIN_/地端的小 LLM 模型現況.md",
-    "_MAIN_/外部性問題.md",
-    "_MAIN_/列印字串格式.md",
-    "_MAIN_/代理指標的危險性.md",
-    "_MAIN_/文字相對簡報引發的理解差異.md",
-    "_MAIN_/0_LLM agents for Discussion and Evidence Presentation.md",
-    "_MAIN_/什麼是 Hadoop Spark.md",
-    "_MAIN_",
+    "_MAIN",
     "icon.png",
     "obsidian-zola-main/zola/templates/macros/header.html",
     "obsidian-zola-main/zola/templates/macros/section-navigation.html",
@@ -216,7 +217,6 @@
     "obsidian-zola-main/zola/templates/macros/docs-toc.html",
     "obsidian-zola-main/zola/static/favicon-32x32.png",
     "obsidian-zola-main/zola/static/favicon-16x16.png",
-    "obsidian-zola-main/zola/static/apple-touch-icon.png",
-    "obsidian-zola-main/zola/static/android-chrome-512x512.png"
+    "obsidian-zola-main/zola/static/apple-touch-icon.png"
   ]
 }
