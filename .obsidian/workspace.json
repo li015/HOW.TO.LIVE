@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimize/提升品質、降低成本.md",
+                "file": "Operate/操作性、節奏感.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b8218840954b607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimize/提升品質、降低成本.md",
+                "file": "Home/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimize/提升品質、降低成本.md",
+                "file": "Home/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimize/提升品質、降低成本.md"
+                "file": "Home/home.md"
               }
             }
           }
@@ -145,10 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6960612aa13073a4",
+  "active": "5b8218840954b607",
   "lastOpenFiles": [
-    "CONFIG.md",
+    "Sustain/倡議並維持.md",
+    "Home/home.md",
     "Optimize/提升品質、降低成本.md",
+    "Operate/操作性、節奏感.md",
+    "Collaborate/觀察角色與選擇評估.md",
+    "Adapt/面對變化、解決問題.md",
+    "Home",
+    "CONFIG.md",
     "0_openAI-based social robot design for construction site.md",
     "0_LLM agents for Discussion and Evidence Presentation.md",
     "0_Impact of Collaboration Modes in Human-Robot Teaming.md",
@@ -168,11 +187,6 @@
     "框架.md",
     "根據EIR和項目進度表來定義模擬的遊戲規則.md",
     "食農.md",
-    "風險識別和分析.md",
-    "研究方法.md",
-    "怎樣把excel和word中的資料關聯起來？.md",
-    "建築營造業職涯能力.md",
-    "建築項目Negotiation model.md",
     "blockright.png",
     "blockleft.png",
     "result.png",
@@ -189,7 +203,6 @@
     "obsidian-zola-main/zola/templates/macros/head.html",
     "obsidian-zola-main/zola/templates/macros/graph.html",
     "obsidian-zola-main/zola/templates/macros/footer.html",
-    "obsidian-zola-main/zola/templates/macros/docs-toc.html",
     "obsidian-zola-main/zola/static/favicon-32x32.png",
     "obsidian-zola-main/zola/static/favicon-16x16.png",
     "obsidian-zola-main/zola/static/apple-touch-icon.png"
