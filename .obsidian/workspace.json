@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONFIG.md",
+                "file": "Home/home.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONFIG.md",
+                "file": "Home/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONFIG.md",
+                "file": "Home/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONFIG.md"
+                "file": "Home/home.md"
               }
             }
           }
@@ -160,7 +160,9 @@
   },
   "active": "5b8218840954b607",
   "lastOpenFiles": [
-    "Home/已知.md",
+    "Adapt/Adapt.md",
+    "Home/home.md",
+    "Collaborate/觀察角色與選擇評估.md",
     "CONFIG.md",
     "file/blockright.png",
     "file/game model.png",
@@ -188,8 +190,6 @@
     "_DB_/建築營造業職涯能力.md",
     "_DB_/建築項目Negotiation model.md",
     "_DB_/建築案經濟模型.md",
-    "_DB_/自然的 coordinate with people.md",
-    "_DB_/如何進行人文社會科學的閱讀筆記.md",
     "_DB_",
     "新增資料夾",
     "Home",
