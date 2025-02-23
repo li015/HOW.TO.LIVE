@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/home.md",
+                "file": "Home/已知.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/home.md",
+                "file": "Home/已知.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/home.md",
+                "file": "Home/已知.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/home.md"
+                "file": "Home/已知.md"
               }
             }
           }
@@ -161,7 +161,7 @@
   "active": "5b8218840954b607",
   "lastOpenFiles": [
     "Sustain/倡議並維持.md",
-    "Home/home.md",
+    "Home/已知.md",
     "Optimize/提升品質、降低成本.md",
     "Operate/操作性、節奏感.md",
     "Collaborate/觀察角色與選擇評估.md",
