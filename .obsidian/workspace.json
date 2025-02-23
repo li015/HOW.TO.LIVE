@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/已知.md",
+                "file": "CONFIG.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/已知.md",
+                "file": "CONFIG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/已知.md",
+                "file": "CONFIG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/已知.md"
+                "file": "CONFIG.md"
               }
             }
           }
@@ -160,49 +160,49 @@
   },
   "active": "5b8218840954b607",
   "lastOpenFiles": [
-    "Sustain/倡議並維持.md",
     "Home/已知.md",
-    "Optimize/提升品質、降低成本.md",
-    "Operate/操作性、節奏感.md",
-    "Collaborate/觀察角色與選擇評估.md",
-    "Adapt/面對變化、解決問題.md",
-    "Home",
     "CONFIG.md",
-    "0_openAI-based social robot design for construction site.md",
-    "0_LLM agents for Discussion and Evidence Presentation.md",
-    "0_Impact of Collaboration Modes in Human-Robot Teaming.md",
-    "騎樓機器人.md",
-    "營建市場需求.md",
-    "機器人如何評估已完成工作進度.md",
-    "影片輸出.md",
-    "圖書資訊管理.md",
-    "溫納 (Weiner)歸因理論.md",
-    "竣工修模流程.md",
-    "無家者領域.md",
-    "智慧建造 論壇&分享.md",
-    "博物館教育.md",
-    "設計到施工模型流程.md",
-    "從HHI找有效的提示.md",
-    "區域計畫法問題.md",
-    "框架.md",
-    "根據EIR和項目進度表來定義模擬的遊戲規則.md",
-    "食農.md",
-    "blockright.png",
-    "blockleft.png",
-    "result.png",
-    "problem.png",
-    "game model.png",
-    "roadmap.png",
+    "file/blockright.png",
+    "file/game model.png",
+    "file/blockleft.png",
+    "file",
+    "_DB_/騎樓機器人.md",
+    "_DB_/營建市場需求.md",
+    "_DB_/機器人如何評估已完成工作進度.md",
+    "_DB_/影片輸出.md",
+    "_DB_/圖書資訊管理.md",
+    "_DB_/溫納 (Weiner)歸因理論.md",
+    "_DB_/竣工修模流程.md",
+    "_DB_/無家者領域.md",
+    "_DB_/智慧建造 論壇&分享.md",
+    "_DB_/博物館教育.md",
+    "_DB_/設計到施工模型流程.md",
+    "_DB_/從HHI找有效的提示.md",
+    "_DB_/區域計畫法問題.md",
+    "_DB_/框架.md",
+    "_DB_/根據EIR和項目進度表來定義模擬的遊戲規則.md",
+    "_DB_/食農.md",
+    "_DB_/風險識別和分析.md",
+    "_DB_/研究方法.md",
+    "_DB_/怎樣把excel和word中的資料關聯起來？.md",
+    "_DB_/建築營造業職涯能力.md",
+    "_DB_/建築項目Negotiation model.md",
+    "_DB_/建築案經濟模型.md",
+    "_DB_/自然的 coordinate with people.md",
+    "_DB_/如何進行人文社會科學的閱讀筆記.md",
+    "_DB_",
+    "新增資料夾",
+    "Home",
+    "file/result.png",
+    "file/problem.png",
+    "file/roadmap.png",
     "_MAIN",
-    "icon.png",
+    "file/icon.png",
     "obsidian-zola-main/zola/templates/macros/header.html",
     "obsidian-zola-main/zola/templates/macros/section-navigation.html",
     "obsidian-zola-main/zola/templates/macros/page-publish-metadata.html",
     "obsidian-zola-main/zola/templates/macros/javascript.html",
     "obsidian-zola-main/zola/templates/macros/math.html",
-    "obsidian-zola-main/zola/templates/macros/head.html",
-    "obsidian-zola-main/zola/templates/macros/graph.html",
-    "obsidian-zola-main/zola/templates/macros/footer.html",
     "obsidian-zola-main/zola/static/favicon-32x32.png",
     "obsidian-zola-main/zola/static/favicon-16x16.png",
     "obsidian-zola-main/zola/static/apple-touch-icon.png"

@@ -8,7 +8,7 @@ LANDING_BUTTON = "👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "thins I got"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Home"
+LANDING_PAGE = "/Home/已知.md"
 # (Optional) Site title on landing page
 LANDING_TITLE = "ALL THE"
 PYTHON_VERSION = "3.8"
@@ -26,7 +26,7 @@ ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
 # (Optional) Google Analytics Measurement ID
-GANALYTICS = "y"
+GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
