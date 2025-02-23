@@ -11,11 +11,40 @@
             "id": "6960612aa13073a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_MAIN_/API Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09fb1214b36131aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MAIN_/API Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d036d3d9a0be754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MAIN_/Define Sheets.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,13 +110,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_MAIN_/Define Sheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_MAIN_/Define Sheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +149,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_MAIN_/Define Sheets.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +170,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68a3ab84638c6bca",
+  "active": "9d036d3d9a0be754",
   "lastOpenFiles": [
+    "blockright.png",
+    "blockleft.png",
+    "Operate/操作性、節奏感.md",
+    "_MAIN_/API Development.md",
+    "result.png",
+    "problem.png",
+    "Optimize/提升品質、降低成本.md",
+    "Adapt/面對變化、解決問題.md",
+    "Sustain/倡議並維持.md",
+    "Collaborate/觀察角色與選擇評估.md",
+    "_MAIN_/AI in Real Estate.md",
+    "_MAIN_/營建市場需求.md",
+    "_MAIN_/Act like notion.md",
+    "_MAIN_/從HHI找有效的提示.md",
+    "_MAIN_/竣工修模流程.md",
+    "_MAIN_/A Framework of Simulating Project Governance Mechanisms in Construction through Large Language Agent.md",
+    "game model.png",
+    "roadmap.png",
+    "_MAIN_/BIM project delivery.md",
+    "_MAIN_/Define Sheets.md",
+    "_MAIN_/框架.md",
+    "_MAIN_/建築案經濟模型.md",
+    "_MAIN_/合約文件數據收集.md",
+    "_MAIN_/如何進行人文社會科學的閱讀筆記.md",
+    "_MAIN_/地端的小 LLM 模型現況.md",
+    "_MAIN_/外部性問題.md",
+    "_MAIN_/列印字串格式.md",
+    "_MAIN_/代理指標的危險性.md",
+    "_MAIN_/文字相對簡報引發的理解差異.md",
+    "_MAIN_/0_LLM agents for Discussion and Evidence Presentation.md",
+    "_MAIN_/什麼是 Hadoop Spark.md",
+    "_MAIN_",
+    "icon.png",
     "obsidian-zola-main/zola/templates/macros/header.html",
     "obsidian-zola-main/zola/templates/macros/section-navigation.html",
     "obsidian-zola-main/zola/templates/macros/page-publish-metadata.html",
@@ -149,22 +214,9 @@
     "obsidian-zola-main/zola/templates/macros/graph.html",
     "obsidian-zola-main/zola/templates/macros/footer.html",
     "obsidian-zola-main/zola/templates/macros/docs-toc.html",
-    "obsidian-zola-main/zola/templates/macros/docs-sidebar.html",
-    "obsidian-zola-main/zola/templates/macros/docs-graph.html",
     "obsidian-zola-main/zola/static/favicon-32x32.png",
     "obsidian-zola-main/zola/static/favicon-16x16.png",
     "obsidian-zola-main/zola/static/apple-touch-icon.png",
-    "obsidian-zola-main/zola/static/android-chrome-512x512.png",
-    "obsidian-zola-main/zola/static/android-chrome-192x192.png",
-    "obsidian-zola-main/zola/sass/bootstrap/README.md",
-    "obsidian-zola-main/content/_index.md",
-    "obsidian-zola-main/README.md",
-    "obsidian-zola-main/icon.png",
-    "obsidian-zola-main/CONFIG.md",
-    "Operate/operate.md",
-    "Optimize/optimize.md",
-    "Collaborate/collaborate.md",
-    "Adapt/adapt.md",
-    "Sustain/sustain.md"
+    "obsidian-zola-main/zola/static/android-chrome-512x512.png"
   ]
 }
